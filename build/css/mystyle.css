@@ -1,0 +1,32 @@
+.skin-blue .main-header li.user-header {
+  background-color: #56070c !important;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #56070c !important; 
+}
+
+.skin-blue .main-header .logo {
+    background-color: #56070c !important;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+
+.login-page, .register-page {
+  background: #56070c !important;
+}
+
+
+
+.logo {
+    
+    text-align: center !important; /* Centra el contenido horizontalmente */
+  }
+  
+  .logo img {
+    height: auto !important;
+    vertical-align: middle !important; /* Alinea verticalmente */
+  }
+
+
+  
